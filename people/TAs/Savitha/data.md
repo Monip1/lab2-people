@@ -6,7 +6,7 @@ Year at UCSD: 3rd year Phd
 Favorite CSE29 topic:  buffer overflows
 Favorite UCSD class: ceramics
 
-Favorite food:  yogurt rice
+Favorite food:  pizza
 Favorite drink:  kombucha
 Favorite emoji:  ✨
 Favorite ascii string: yayyy 
